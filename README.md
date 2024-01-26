@@ -22,11 +22,4 @@ This project covers all you need to know about deploying a web server on AWS usi
 
 6. **Cleaning Up Resources:** Learn how to safely tear down your infrastructure to avoid unnecessary costs.
 
-## Getting Started
 
-To get started with this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
